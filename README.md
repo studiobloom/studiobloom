@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+    <a href="https://studiobloom.xyz">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.instagram.com/bl00m.exe/">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/8700m_exe">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
-<!--
-**studiobloom/studiobloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+ 
+ 
+ //.hi, i'm bloom.
+ 
+//.my life consists of computers, art and everything in between. i've been into computers for as long as i can remember; late nights spent as a kid drawing in ms paint and animating frame by frame in powerpoint or windows movie maker. i'd grab my sister to show her the 5 second clip i worked 2 hours for, something i akin to working in 3d these days...
 
-Here are some ideas to get you started:
+//.i've worked with adobe creative suite since middle school so photoshop, illustrator, after effects and more are native to me. in high school i started working with web design, integrating my graphic design skills to make fun and unique y2k websites. i've been working with blender and unity for 3+ years now, and have a strong interest in tablet 3d sculpting with apps like nomad or forge. i've worked with python, c#, c++ and  more over the years for random projects and alongside friends. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+//.most of my time these days is spent working gigs for clients i've done freelance work for over the years. i've assembled a small but strong network of what i like to call the extension of my abilities; meaning i have close friends in every field in case i ever get tasked with a job that's too large/advanced for myself to handle.
+
+ <div>
+  
+
+
