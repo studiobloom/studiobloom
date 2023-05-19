@@ -21,7 +21,7 @@
  
 //.my life consists of computers, art and everything in between. i've been into computers for as long as i can remember; late nights spent as a kid drawing in ms paint and animating frame by frame in powerpoint or windows movie maker. i'd grab my sister to show her the 5 second clip i worked 2 hours for, something i akin to working in 3d these days...
 
-//.i've worked with adobe creative suite since middle school so photoshop, illustrator, after effects and more are native to me. in high school i started working with web design, integrating my graphic design skills to make fun and unique y2k websites. i've been working with blender and unity for 3+ years now, and have a strong interest in tablet 3d sculpting with apps like nomad or forge. i've worked with python, c#, c++ and  more over the years for random projects and alongside friends. 
+//.i've worked with adobe creative suite since middle school so photoshop, illustrator, after effects and more are native to me. in high school i started working with web design, integrating my graphic design skills to make fun and unique y2k websites. i've been working with blender and unity for 5+ years now. i've worked with javascript, python, c#, c++ and more over the years for both freelance and passion projects. 
 
 //.most of my time these days is spent working gigs for clients i've done freelance work for over the years. i've assembled a small but strong network of what i like to call the extension of my abilities; meaning i have close friends in every field in case i ever get tasked with a job that's too large/advanced for myself to handle.
 
