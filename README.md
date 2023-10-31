@@ -17,7 +17,7 @@
 </div>
  
  
-//.hey, i'm john large aka bloom, the founder of studiobloom! i live at the intersection of art and technology, an exploration that began in childhood with late-night ms paint drawings and painstakingly crafted animations in powerpoint or windows movie maker. these childhood explorations laid the foundation for my career in digital design and development. it’s a curiosity that’s guided me towards a life in digital design and development, where i'm always creating something new, pushing the envelope, and blurring the boundaries between real and virtual.
+//.hey, i'm john large aka bloom, the founder of studiobloom! art and technology and everything in between, an exploration that began in childhood with late-night ms paint drawings and painstakingly crafted animations in powerpoint or windows movie maker. these childhood explorations laid the foundation for my career in digital design and development. it’s a curiosity that’s guided me towards a life in digital design and development, where i'm always creating something new, pushing the envelope, and blurring the boundaries between real and virtual.
 
 //.my relationship with adobe creative suite began in middle school. over the years, photoshop, illustrator, and after effects have become the extensions of my creative mind. during high school my interest evolved toward web design, and i started crafting lots y2k-inspired websites, blending my graphic design skills with interactive elements.
 
