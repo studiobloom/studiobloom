@@ -13,9 +13,6 @@
     <img src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord&logoColor=53a766" alt="Discord Badge"/>
   </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=studiobloom&show_icons=true&theme=dark)
-</div>
-
   
 
 
